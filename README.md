@@ -1,5 +1,10 @@
 # Docker Golang Challenge - Full Cycle Rocks
 
+## Caso queira utilizar essa imagem, pode buscar ela da seguinte forma.
+```bash
+docker pull wagaodev/fullcycle-go:latest
+```
+
 Este repositório contém o código para gerar uma imagem Docker minimalista usando Go. O objetivo é criar uma imagem Docker com menos de 2MB que, ao ser executada, imprime "Full Cycle Rocks" no console.
 
 ## Requisitos
